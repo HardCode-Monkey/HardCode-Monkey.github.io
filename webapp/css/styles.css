@@ -38,12 +38,8 @@ section {
     font-size: 2em;
 }
 
-#section1 {
-    background-color: #f4a261; 
-}
-#section2 {
-    background-color: #2a9d8f; color: #fff;
-}
-#section3 {
-    background-color: #264653; color: #fff;
+
+main {
+    padding: 2em;
+    text-align: center;
 }
