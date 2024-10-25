@@ -7,7 +7,7 @@ body, html {
     scroll-behavior: smooth;
 }
 
-.navbar {
+nav {
     position: fixed;
     top: 0;
     width: 100%;
@@ -18,13 +18,13 @@ body, html {
     z-index: 1000;
 }
 
-.navbar a {
+nav a {
     color: #fff;
     text-decoration: none;
     padding: 0.5em 1em;
 }
 
-.navbar a:hover {
+nav a:hover {
     background-color: #555;
     border-radius: 5px;
 }
