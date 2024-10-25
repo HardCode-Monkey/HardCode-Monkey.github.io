@@ -22,3 +22,4 @@ function navigate(page) {
 
 // Load "section1" by default
 navigate('section1');
+window.navigate = navigate

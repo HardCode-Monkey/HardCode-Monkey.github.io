@@ -42,4 +42,6 @@ section {
 main {
     padding: 2em;
     text-align: center;
+    justify-content: center;
+    display: flex;
 }
