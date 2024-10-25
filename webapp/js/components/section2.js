@@ -1,5 +1,5 @@
 export function loadSection2(content) {
-    content.innerHTML =
-        <H1>Section2</H1>
-    ;
+    content.innerHTML = `
+        <h1>Section 2</h1>
+    `;
 }
