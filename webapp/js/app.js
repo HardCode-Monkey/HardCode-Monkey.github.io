@@ -1,6 +1,6 @@
-import {loadSection1} from './components/section1'
-import {loadSection2} from './components/section2'
-import {loadSection3} from './components/section3'
+import {loadSection1} from './components/section1';
+import {loadSection2} from './components/section2';
+import {loadSection3} from './components/section3';
 
 function navigate(page) {
     const content = document.getElementById('content');
